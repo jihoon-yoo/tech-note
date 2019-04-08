@@ -1,2 +1,4 @@
 # tech-note
-summary for technical interests 
+summary for technical interests
+
+updated.
