@@ -1,21 +1,21 @@
 # Tech Notes
 
-AUTH.md: authentication, authorization
+[AUTH.md](AUTH.md): authentication, authorization
 
-AWS.md: Amazon Web Services
+[AWS.md](AWS.md): Amazon Web Services
 
-BIZ.md: all about business
+[BIZ.md](BIZ.md): all about business
 
-DATA.md: Data Engineering
+[DATA.md](DATA.md): Data Engineering
 
-DevSecOps.md
+[DevSecOps.md](DevSecOps.md)
 
-JAVA.md
+[JAVA.md](JAVA.md)
 
-JavaScript.md
+[JavaScript.md](JavaScript.md)
 
-ML-AI.md: Machine Learning & Artificial Intelligence
+[ML-AI.md](ML-AI.md): Machine Learning & Artificial Intelligence
 
-NETWORK.md
+[NETWORK.md](NETWORK.md)
 
-[testing](SW_Design.md): Software Design & Architect
+[SW_Design.md](SW_Design.md)
