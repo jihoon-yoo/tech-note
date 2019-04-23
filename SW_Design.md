@@ -1,47 +1,48 @@
-# Agile Development Methodology
-- Manifesto (성명서) for Agile https://goo.gl/ruvK
-- Scrum  https://goo.gl/xnbPr3
-- Kanban https://goo.gl/OTTjsT
+# About SW Design and Architecture
 
+## Agile Development Methodology
 
-# Software Design Pattern:
-- https://goo.gl/4RGWB
+- [Manifesto (성명서) for Agile](https://agilemanifesto.org/)
+- [Scrum](https://bre.is/KK703Ktdr)
+- [Kanban](https://bre.is/yNFi0uq6N)
 
-# Programming Paradigms
-- http://goo.gl/20AE
+## Software Design Pattern
+
+## Programming Paradigms
+
+- [Wiki](https://bre.is/fT73yFJo3)
 - a fundamental style of computer programming, a way of building the structure and elements of computer programs.
-- Functional Programming http://goo.gl/MujI
-	- treats computation as the evaluation of mathematical functions and avoids state and mutable data.
-- Data-driven programming http://goo.gl/yCC5p
-	- the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
-- Aspect-oriented programming
-	- https://goo.gl/Cuzl8
+- [Functional Programming](https://bre.is/4iR1e7poQ)
+  > treats computation as the evaluation of mathematical functions and avoids state and mutable data.
+- [Data-driven programming](https://bre.is/EcuAALadI)
+  > the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
+- [Aspect-oriented programming](https://bre.is/PjeYXlRoW)
 
+## SOA (Service Oriented Architecture)
 
+> software architecture design pattern based on discrete pieces of software providing application functionality as services to other applications.
 
-# SOA (Service Oriented Architecture)
--  http://goo.gl/i0NcbA
-- software architecture design pattern based on discrete pieces of software providing application functionality as services to other applications.
+- [Wiki](https://bre.is/q3GH59Mg5)
 - WHY? to allow users to combine together fairly large chunks of functionality to form ad hoc applications built almost entirely from existing and fairly simple software services.
-- reusable service <<==>> data with protocol <<==>> reusable service
-- WSDL (Web Services Description Language) http://goo.gl/laPc
-- SOAP (Simple Object Access Protocol) http://goo.gl/24n7k3
-- REST (Representational State Transfer) http://goo.gl/ipilt
+- reusable service <-> data with protocol <-> reusable service
+- WSDL (Web Services Description Language) https://bre.is/nGsl1hr_L
+- SOAP (Simple Object Access Protocol) https://bre.is/zEWEa-c-p
+- REST (Representational State Transfer) https://bre.is/omETGpZlG
 
+## Microservices, Modular Services
 
-# Microservices, Modular Services
-- a software architecture design pattern, in which complex applications are composed of small, independent processes communicating with each other using language-agnostic APIs. These services are small, highly decoupled and focus on doing a small task
+> a software architecture design pattern, in which complex applications are composed of small, independent processes communicating with each other using language-agnostic APIs. These services are small, highly decoupled and focus on doing a small task
+
 - Pros: fault tolerant, small, easy decoupling, resume-driven development
 - Cons: data consistency
 - WHY: continuous delivery with easy replacing processes
 - WHAT: a software architecture method, a group of small & independent processes
-- HOW (WHO / WHEN / WHERE):
-			§ processes communicate with each other via language-independent APIs.
-should embrace automation of deployment and testing, and failure-tolerance
+- HOW (WHO / WHEN / WHERE): processes communicate with each other via language-independent APIs.
+- should embrace automation of deployment and testing, and failure-tolerance
 
+## Things to consider
 
-# Things to consider:
-- Imperative vs Functional / Declarative
-- Closure http://goo.gl/MCMNE
-- Serialization
-- Polymorphism http://goo.gl/9rvKU
+- [Imperative](https://bre.is/ixdwVtnhj) vs [Functional](https://bre.is/qpS9VbOd-) vs [Declarative](https://bre.is/WZzH0qEUq)
+- [Closure](https://bre.is/E41T5H56X)
+- [Serialization](https://bre.is/fCvunRuRW)
+- [Polymorphism](https://bre.is/La88yb5th)

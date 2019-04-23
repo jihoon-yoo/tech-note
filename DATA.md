@@ -9,7 +9,7 @@
 - Build / maintain real-time data pipeline/streaming system
 - Clean data, turn then into a usable state
 
-## Data Engineering Role:
+## Data Engineering Role
 
 - Communicate with stakeholders.
 - Build systems / solutions: loading, organizing, pipping, and returning intelligence.
@@ -65,7 +65,7 @@
 
 ## Apache Spark
 
-- <https://goo.gl/ve5tD1>
+- [Wiki](https://goo.gl/ve5tD1)
 - RDD (Resilient Distributed Dataset)
   - Architectural Foundation
   - Cluster-computing framework
@@ -80,11 +80,16 @@
 - Parallel programing features
   - Accumulator
   - Broadcast variables
+- Driver vs Executor
 - Performance and debugging
   - SparkConf() class
   - Spark Web UI
 - [Spark Fundamentals I Course](https://goo.gl/4StVDv)
-- Apache Beam: Programming model to implement batch and streaming data processing jobs.
+- [Why a Spark application fails or slows](https://bre.is/myC7R0MAe)
+
+## Apache Beam
+
+> Programming model to implement batch and streaming data processing jobs.
 
 ## Data Science
 
