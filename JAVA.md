@@ -2,8 +2,9 @@
 
 ## Learning
 
-- http://www.precisejava.com/
-- http://bigocheatsheet.com/
+- <http://www.precisejava.com>
+- <http://bigocheatsheet.com>
+- <https://javapapers.com>
 
 ## Things to review
 
@@ -45,7 +46,7 @@
 
 ## Java Data Structures
 
-### HashTable
+### HashTable / HashMap
 
 - Key-Value pair
 - Hashing: rehash()
