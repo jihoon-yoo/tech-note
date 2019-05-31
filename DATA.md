@@ -16,13 +16,13 @@
 
 ## Data Engineering Skills
 
-- Programming in Python/R/Java/Scala
+- Programming in Java/Python/Scala/R
 - SQL/NoSQL, Data Warehouse, Data Lake
 - Cloud-based Distributed Systems: AWS, GCP
 - Ecosystem:
+  - storage engines: S3, HDFS, HBase, Kudu
   - ingestion: Kafka, Kinesis
   - processing frameworks: Hadoop, Flink
-  - storage engines: S3, HDFS, HBase, Kudu
 - Machine Learning
 
 ## MapReduce
@@ -76,7 +76,8 @@
   - Performance: use RAM in smart way
   - Ease of use: Python, Scala, Java
   - Components: SparkSQL, Streaming, MLib, GraphX, and etc.
-- Formula?
+- Spark Streaming
+- Spark MLlib
 - Parallel programing features
   - Accumulator
   - Broadcast variables
@@ -84,6 +85,7 @@
 - Performance and debugging
   - SparkConf() class
   - Spark Web UI
+- DataFrame API
 - [Spark Fundamentals I Course](https://goo.gl/4StVDv)
 - [Why a Spark application fails or slows](https://bre.is/myC7R0MAe)
 
