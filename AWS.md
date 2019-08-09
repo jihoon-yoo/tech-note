@@ -9,7 +9,7 @@
   - Resource-based
   - Other
 
-## LAMBDA
+## Lambda
 
 ## DMS (Data Migration Service)
 
@@ -20,3 +20,5 @@
 ## API Gateway
 
 ## S3 (Simple Storage Service)
+
+## EC2 (Elastic Compute Cloud)

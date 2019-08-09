@@ -5,15 +5,16 @@
 
 ## DevOps
 
+- [Wiki](https://to.ly/1ziYX)
 - Development and Operations
 - automation and monitoring throughout software construction: integration, testing, releasing, infrastructure management
 - shorter development cycles, frequent release, dependable release
-- [@Wiki](https://to.ly/1ziYX)
 - a culture, movement or practice that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes.
 - It aims at establishing a culture and environment where building, testing, and releasing software, can happen rapidly, frequently, and more reliably.
 
 ## TDD
 
+- Test Driven Development
 - Unit testing
 - Integration testing
   - simulated objects that mimic the behavior of real objects in controlled ways in OO programing

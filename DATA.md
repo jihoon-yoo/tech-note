@@ -43,8 +43,7 @@
 
 ## Apache Hadoop
 
-> Open-source software platform for big data applications.
-
+- "Open-source software platform for big data applications."
 - [Wiki](https://goo.gl/nHjfe0)
 - [Ecosystem](https://hadoopecosystemtable.github.io/)
 - 2 major layers / components:
@@ -88,6 +87,10 @@
 - DataFrame API
 - [Spark Fundamentals I Course](https://goo.gl/4StVDv)
 - [Why a Spark application fails or slows](https://bre.is/myC7R0MAe)
+
+## Apache Flink
+
+> Stateful Computations over Date Steams
 
 ## Apache Beam
 
