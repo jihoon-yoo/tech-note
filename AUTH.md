@@ -1,6 +1,7 @@
 # Authentication & Authorization
 
-## OAuth http://en.wikipedia.org/wiki/OAuth
+## OAuth 
+- http://en.wikipedia.org/wiki/OAuth
 - provides client applications a 'secure delegated access' to server resources on behalf of a resource owner.
 
 ## CAS (Central Authentication Service)
