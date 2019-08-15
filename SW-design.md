@@ -12,10 +12,8 @@
 
 - [Wiki](https://bre.is/fT73yFJo3)
 - a fundamental style of computer programming, a way of building the structure and elements of computer programs.
-- [Functional Programming](https://bre.is/4iR1e7poQ)
-  > treats computation as the evaluation of mathematical functions and avoids state and mutable data.
-- [Data-driven programming](https://bre.is/EcuAALadI)
-  > the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
+- [Functional Programming](https://bre.is/4iR1e7poQ): treats computation as the evaluation of mathematical functions and avoids state and mutable data.
+- [Data-driven programming](https://bre.is/EcuAALadI): the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
 - [Aspect-oriented programming](https://bre.is/PjeYXlRoW)
 
 ## SOA (Service Oriented Architecture)
@@ -29,7 +27,7 @@
 - SOAP (Simple Object Access Protocol) https://bre.is/zEWEa-c-p
 - REST (Representational State Transfer) https://bre.is/omETGpZlG
 
-## Microservices, Modular Services
+## Microservices (Modular Services)
 
 > a software architecture design pattern, in which complex applications are composed of small, independent processes communicating with each other using language-agnostic APIs. These services are small, highly decoupled and focus on doing a small task
 
@@ -39,6 +37,10 @@
 - WHAT: a software architecture method, a group of small & independent processes
 - HOW (WHO / WHEN / WHERE): processes communicate with each other via language-independent APIs.
 - should embrace automation of deployment and testing, and failure-tolerance
+
+## API Gateway
+
+- 
 
 ## Things to consider
 

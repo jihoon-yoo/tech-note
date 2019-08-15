@@ -6,42 +6,38 @@
 
 ## Data Engineering
 
-- Build / maintain real-time data pipeline/streaming system
+- Build / maintain real-time data pipeline(streaming) system and related tools.
 - Clean data, turn then into a usable state
-
-## Data Engineering Role
-
-- Communicate with stakeholders.
 - Build systems / solutions: loading, organizing, pipping, and returning intelligence.
 
 ## Data Engineering Skills
 
-- Programming in Java/Python/Scala/R
-- SQL/NoSQL, Data Warehouse, Data Lake
+- Programming in Scala / Java / Python / R
+- SQL/NoSQL, Data Warehouse / Lake
 - Cloud-based Distributed Systems: AWS, GCP
 - Ecosystem:
+  - processing frameworks: Hadoop, Flink
   - storage engines: S3, HDFS, HBase, Kudu
   - ingestion: Kafka, Kinesis
-  - processing frameworks: Hadoop, Flink
-- Machine Learning
+- Machine Learning >>> AI 
+- Data pipeline / streaming system.
 
 ## MapReduce
 
-> a programming model for processing large data sets with a parallel, distributed algorithm on a cluster.
-
 - [Wiki](http://goo.gl/Dmj3)
+- a programming model for processing large data sets with a parallel, distributed algorithm on a cluster.
 
-## Data Pipeline / Stream Processing
 
-- [Wiki](https://bre.is/3TPrtvoeX)
+## Data Pipeline / Steaming: [Wiki](https://bre.is/3TPrtvoeX)
 
 ### Apache Kafka
 
 - [Wiki](https://en.wikipedia.org/wiki/Apache_Kafka)
-- an open-source stream-processing software platform developed by LinkedIn and donated to the Apache Software Foundation, written in Scala and Java.
+- an open-source stream-processing software platform developed by LinkedIn: donated to the Apache Software Foundation, written in Scala and Java.
 - The storage layer is essentially a "massively scalable pub/sub message queue designed as a distributed transaction log".
 
 ## Apache Hadoop
+
 
 - "Open-source software platform for big data applications."
 - [Wiki](https://goo.gl/nHjfe0)
@@ -88,9 +84,19 @@
 - [Spark Fundamentals I Course](https://goo.gl/4StVDv)
 - [Why a Spark application fails or slows](https://bre.is/myC7R0MAe)
 
+
+## Apache HBase
+- open-source, column-oriented distributed DB.
+- it was Google Big Table, later re-named as HBase
+- columnar DB built on top of HDFS
+- all the columns are grouped together as Column families
+- written in Java
+- low latency operations
+
+
 ## Apache Flink
 
-> Stateful Computations over Date Steams
+> Stateful Computations over Date Streams
 
 ## Apache Beam
 
@@ -113,7 +119,7 @@
 
 - <http://goo.gl/KhBP>
 
-## RDBMS => distributed NoSQL
+## RDBMS >>> distributed NoSQL
 
 - Old SQL can not keep up all big data
   - Schema is fixed

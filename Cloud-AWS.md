@@ -13,7 +13,7 @@
 
 ## DMS (Data Migration Service)
 
-- CDC (Change Data Capture) Feature: on-going data migration
+- Change Data Capture (CDC): on-going data migration
 
 ## SQS & SNS
 

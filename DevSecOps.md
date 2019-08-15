@@ -1,7 +1,6 @@
 # DevSecOps
 
-- https://www.devsecops.org/
-- https://bre.is/HrVAdKdLK
+- [What is it?](https://t.ly/NzB58)
 
 ## DevOps
 
@@ -20,34 +19,38 @@
   - simulated objects that mimic the behavior of real objects in controlled ways in OO programing
 - Regression testing
 - State Coverage testing
-- Mock Object: http://goo.gl/XWpfm
+- [Mock Object](http://goo.gl/XWpfm)
 - Browser Testing
 - Performance Testing
 - JUnit
 - Mockito
-- Selenium: http://goo.gl/jp5v
-- Apache JMeter http://goo.gl/AfXI6F
+- [Selenium](http://goo.gl/jp5v)
+- [Apache JMeter](http://goo.gl/AfXI6F)
   - a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
 
 ## SDLC: System Development Life Cycle
 
 - plan, analysis, design, implementation, maintenance.
-- https://goo.gl/DcYGvy
+- [Wiki](https://t.ly/JZ8bv)
 
 ## ALM: Application Lifecycle Management
 
-- https://goo.gl/biPPF
+- [Wiki](https://goo.gl/biPPF)
 
 ## Software Development Process
 
-- http://goo.gl/qVpf
+- [Wiki](https://t.ly/GkE69)
 - [Software release life cycle](http://goo.gl/YsHW)
 
-## Continuous Integration (http://goo.gl/41pw)
+## Continuous Integration
 
-## Continuous Delivery / Deployment (http://goo.gl/EVneFi)
+- [Wiki](https://t.ly/GkE69)
+
+## Continuous Itegration / Delivery / Deployment
+
+- [Wiki](https://t.ly/p6xWE)
 
 ## Jenkins
 
 - an open source continuous integration / delivery tool written in Java
-- http://goo.gl/KNMSR
+- [Wiki](https://t.ly/RBJlq)

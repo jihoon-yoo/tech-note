@@ -1,4 +1,12 @@
-# Tech Notes
+## What to focus and learn for the future: 
+> BigData, ML/AI, Automation, (Manager)
+
+<br/>
+<br/>
+<br/>
+
+
+### Tech Notes
 
 [AUTH.md](AUTH.md): authentication, authorization
 
