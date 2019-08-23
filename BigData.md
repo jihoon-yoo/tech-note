@@ -19,7 +19,7 @@
   - processing frameworks: Hadoop, Flink
   - storage engines: S3, HDFS, HBase, Kudu
   - ingestion: Kafka, Kinesis
-- Machine Learning >>> AI 
+- Machine Learning >>> AI
 - Data pipeline / streaming system.
 
 ## MapReduce
@@ -51,9 +51,9 @@
     - Hadoop Common: Java libraries required by other modules
     - Hadoop YARN (Yet Another Resource Negotiator): framework for job scheduling and cluster resource management
     - Hive: SQL interface, data warehouse on top of Hadoop
-    - HBase: a NoSQL Database for Hadoop.
+    - HBase: a NoSQL column-based Database for Hadoop.
     - Pig: scripting language for Hadoop.
-    - Kafka: Stream processing platform
+    - Kafka: large-scale, fault-tolerant publish-subscirbe messaging system.
     - Storm: distributed real-time computation system
     - Ambari: simple management & monitoring over clusters
     - ZooKeeper: maintaining configuration information, naming, providing distributed synchronization, and providing group services.

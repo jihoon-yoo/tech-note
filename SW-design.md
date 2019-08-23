@@ -16,6 +16,16 @@
 - [Data-driven programming](https://bre.is/EcuAALadI): the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
 - [Aspect-oriented programming](https://bre.is/PjeYXlRoW)
 
+## Software Development Process
+
+- [Wiki](https://t.ly/GkE69)
+- [Software release life cycle](http://goo.gl/YsHW)
+
+## SDLC: System Development Life Cycle
+
+- plan, analysis, design, implementation, maintenance.
+- [Wiki](https://t.ly/JZ8bv)
+
 ## SOA (Service Oriented Architecture)
 
 > software architecture design pattern based on discrete pieces of software providing application functionality as services to other applications.
@@ -40,7 +50,7 @@
 
 ## API Gateway
 
-- 
+
 
 ## Things to consider
 

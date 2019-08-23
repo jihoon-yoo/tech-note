@@ -19,7 +19,12 @@
 
 ## Terraform
 
-- open-source Infrastructure as code software
+- open-source Infrastructure-as-Code (IaC) software
 - to define and provision an infrastructure using a high-level configuration language
 
-## AWS
+## Cloud Service Models
+
+- Infrastructure-as-a-Service (IaaS)
+- Platform-as-a-Service (PaaS)
+- Software-as-a-Service (SaaS)
+
