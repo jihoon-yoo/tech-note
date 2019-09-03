@@ -27,7 +27,6 @@
 - [Wiki](http://goo.gl/Dmj3)
 - a programming model for processing large data sets with a parallel, distributed algorithm on a cluster.
 
-
 ## Data Pipeline / Steaming: [Wiki](https://bre.is/3TPrtvoeX)
 
 ### Apache Kafka
@@ -37,7 +36,6 @@
 - The storage layer is essentially a "massively scalable pub/sub message queue designed as a distributed transaction log".
 
 ## Apache Hadoop
-
 
 - "Open-source software platform for big data applications."
 - [Wiki](https://goo.gl/nHjfe0)
@@ -57,6 +55,10 @@
     - Storm: distributed real-time computation system
     - Ambari: simple management & monitoring over clusters
     - ZooKeeper: maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+
+## Apache Strom
+
+- distributed real-time processing / computation system
 
 ## Apache Spark
 
