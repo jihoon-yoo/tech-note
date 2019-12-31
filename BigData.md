@@ -33,9 +33,9 @@
 
 - [Wiki](https://en.wikipedia.org/wiki/Apache_Kafka)
 - an open-source stream-processing software platform developed by LinkedIn: donated to the Apache Software Foundation, written in Scala and Java.
-- The storage layer is essentially a "massively scalable pub/sub message queue designed as a distributed transaction log".
+- The storage layer is essentially a "massively scalable publish/subscribe message queue designed as a distributed transaction log".
 
-## Apache Hadoop
+## Apache Hadoop Ecosystem
 
 - "Open-source software platform for big data applications."
 - [Wiki](https://goo.gl/nHjfe0)
