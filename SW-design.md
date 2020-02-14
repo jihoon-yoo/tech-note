@@ -48,13 +48,10 @@
 - HOW (WHO / WHEN / WHERE): processes communicate with each other via language-independent APIs.
 - should embrace automation of deployment and testing, and failure-tolerance
 
-## API Gateway
-
-
-
 ## Things to consider
 
 - [Imperative](https://bre.is/ixdwVtnhj) vs [Functional](https://bre.is/qpS9VbOd-) vs [Declarative](https://bre.is/WZzH0qEUq)
 - [Closure](https://bre.is/E41T5H56X)
 - [Serialization](https://bre.is/fCvunRuRW)
 - [Polymorphism](https://bre.is/La88yb5th)
+- [The 12 Factor App](https://12factor.net/ )
